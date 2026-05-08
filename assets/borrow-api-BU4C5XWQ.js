@@ -1,0 +1,1 @@
+import{k as o,l as t,X as a,p as e}from"./zh-cn-DFTWwcpQ.js";const l={list:r=>o("/materialBorrow/selectPageMaterialBorrow",r,"wz"),add:r=>e("/materialBorrow/insertMaterialBorrow",r,"wz"),count:()=>o("/materialBorrow/getMaterialBorrowCount",{},"wz"),lendReturn:r=>a("/materialBorrow/updateBorrowProgress",r,"wz"),export:r=>t("/materialBorrow/exportBorrow",r,"wz")};export{l as b};

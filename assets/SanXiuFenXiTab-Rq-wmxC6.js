@@ -1,0 +1,1 @@
+import{P as e}from"./PivotTable-BEQXj8JB.js";import{_ as a,c as o,o as t,d as s}from"./zh-cn-DFTWwcpQ.js";import"./vuedraggable.umd-HxN_DKaE.js";import"./qita-Dwgux6ua.js";import"./request-C266GrPI.js";const n={class:"sanxiu-fenxi-container"},r={__name:"SanXiuFenXiTab",setup(c){return(i,_)=>(t(),o("div",n,[s(e)]))}},l=a(r,[["__scopeId","data-v-7dee5fbb"]]);export{l as default};

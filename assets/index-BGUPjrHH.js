@@ -1,0 +1,1 @@
+import{_ as o,r as t,c,o as s,d as n}from"./zh-cn-DFTWwcpQ.js";const r={class:"qitaxiu-container"},_={__name:"index",setup(a){return(i,p)=>{const e=t("router-view");return s(),c("div",r,[n(e)])}}},m=o(_,[["__scopeId","data-v-9254f73c"]]);export{m as default};

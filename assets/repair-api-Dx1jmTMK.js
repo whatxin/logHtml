@@ -1,0 +1,1 @@
+import{k as a,l as o,p}from"./zh-cn-DFTWwcpQ.js";const e={list:r=>a("/outRepair/queryPage",r,"wz"),add:r=>p("/outRepair/inInventory",r,"wz"),scrap:r=>a("/outRepair/scrap",r,"wz"),returnIn:r=>p("/outRepair/sdInInventory",r,"wz"),approval:r=>p("/outRepair/approval",r,"wz"),export:r=>o("/outRepair/export",r,"wz")};export{e as r};

@@ -1,0 +1,1 @@
+import{k as c,Y as i,X as l,p as t}from"./zh-cn-DFTWwcpQ.js";const k={list:e=>c("/click/selectPageClickList",e),add:e=>t("/click/insertClick",e),del:e=>i("/click/deleteClick",e),update:e=>l("/click/updateClick",e),groupUserList:e=>c(`/click/selectByClickId/${e}`),delGroupUser:e=>i("/click/deleteByClickDetailId",e),teamList:e=>c("/click/getGroupListByInfo",e)};export{k as g};

@@ -1,0 +1,1 @@
+import{P as a}from"./PivotTable-BEQXj8JB.js";import{_ as e,c as o,o as t,d as s}from"./zh-cn-DFTWwcpQ.js";import"./vuedraggable.umd-HxN_DKaE.js";import"./qita-Dwgux6ua.js";import"./request-C266GrPI.js";const c={class:"sanxiu-analysis-container"},n={__name:"SanXiuFenXi",setup(r){return(i,_)=>(t(),o("div",c,[s(a)]))}},f=e(n,[["__scopeId","data-v-8ba5cf82"]]);export{f as default};

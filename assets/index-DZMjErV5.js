@@ -1,0 +1,1 @@
+import{_ as t,c,f as s,o as a}from"./zh-cn-DFTWwcpQ.js";const o="/assets/404-B3JyPfEa.svg",n={},r={class:"noFound"};function _(d,e){return a(),c("div",r,e[0]||(e[0]=[s("img",{src:o,alt:""},null,-1),s("div",{class:"tips"},"抱歉，您访问的页面不存在。",-1),s("a",{class:"btn-back",href:"/"},"返回首页",-1)]))}const i=t(n,[["render",_],["__scopeId","data-v-c2c9bf65"]]);export{i as default};

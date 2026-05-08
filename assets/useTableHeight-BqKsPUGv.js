@@ -1,0 +1,1 @@
+import{H as o,K as i,L as s}from"./zh-cn-DFTWwcpQ.js";const a=(n=260)=>{const t=o(0),e=()=>{t.value=document.body.clientHeight-n};return i(()=>{e(),window.addEventListener("resize",e)}),s(()=>{window.removeEventListener("resize",e)}),{tableHeight:t}};export{a as u};

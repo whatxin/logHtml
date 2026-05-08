@@ -1,0 +1,1 @@
+import{k as d,p as t}from"./zh-cn-DFTWwcpQ.js";const o={list:e=>d("/bom/queryBomByRepairId",e,"wz"),del:e=>d("/bom/deleteBomById",e,"wz"),addOrUpdate:e=>t("/bom/saveOrUpdateBom",e,"wz"),quotaDel:e=>d("/fixed/deleteFixedById",e,"wz"),quotaList:e=>d("/fixed/queryFixed",e,"wz"),quotaAddOrUpdate:e=>t("/fixed/saveOrUpdateFixed",e,"wz")};export{o as b};

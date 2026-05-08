@@ -1,0 +1,1 @@
+import{k as s,X as r,Y as m,p as i}from"./zh-cn-DFTWwcpQ.js";const d={list:()=>s("/permission/getPermList"),permId:e=>s(`/permission/getPermByPermId/${e}`),add:e=>i("/permission/addPerm",e),del:e=>m("/permission/deletePermByPermId",e),update:e=>r("/permission/updatePermByPermId",e)};export{d as p};

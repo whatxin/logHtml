@@ -1,0 +1,1 @@
+import{k as t,Y as a,X as o,p as s}from"./zh-cn-DFTWwcpQ.js";const g={list:e=>t("/storage/getStorageList",e,"wz"),add:e=>s("/storage/save",e,"wz"),update:e=>o("/storage/updateStorageByStorageId",e,"wz"),del:e=>a("/storage/deleteStorageById",e,"wz"),deptId:e=>t(`/storage/getStorageById/${e}`,{},"wz"),tree:()=>t("/storage/getEnableStorageList",{},"wz")};export{g as w};

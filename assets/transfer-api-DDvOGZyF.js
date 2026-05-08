@@ -1,0 +1,1 @@
+import{k as a,l as d,X as r,p as t}from"./zh-cn-DFTWwcpQ.js";const n={list:e=>a("/wzHandRecord/selectPageHandRecord",e,"wz"),add:e=>t("/wzHandRecord/insertHandRecord",e,"wz"),transfer:e=>r("/wzHandRecord/handMaterial",e,"wz"),detail:e=>a(`/wzHandRecord/getHandRecordDetailById/${e}`,{},"wz"),export:e=>d("/wzHandRecord/exportHandExcel",e,"wz")};export{n as t};

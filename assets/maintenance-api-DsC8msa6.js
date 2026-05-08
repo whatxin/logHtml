@@ -1,0 +1,1 @@
+import{k as a,X as f,p as e,Y as s}from"./zh-cn-DFTWwcpQ.js";const p={list:t=>a("/staff/selectPageStaffList",t),del:t=>s(`/staff/deleteStaff/${t}`),add:t=>e("/staff/insertStaffInfo",t),update:t=>f("/staff/updateStaffById",t),maintId:t=>a(`/staff/selectStaffById/${t}`)};export{p as m};

@@ -1,0 +1,1 @@
+import{_ as o,r as t,c as n,o as a,d as s}from"./zh-cn-DFTWwcpQ.js";const c={class:"gongzuo-anpai-container"},r={__name:"index",setup(_){return(p,i)=>{const e=t("router-view");return a(),n("div",c,[s(e)])}}},m=o(r,[["__scopeId","data-v-90a49f65"]]);export{m as default};

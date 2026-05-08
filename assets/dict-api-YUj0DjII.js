@@ -1,0 +1,1 @@
+import{k as d,X as e,p as c,Y as i}from"./zh-cn-DFTWwcpQ.js";const p={list:t=>d("/dict/getPageDictList",t),delType:t=>i("/dict/deleteDictByDictType",t),delId:t=>i("/dict/deleteDictByDictId",t),add:t=>c("/dict/addDict",t),detail:t=>d(`/dict/getDictByDictType/${t}`),update:t=>e("/dict/updateDictByDictId",t)};export{p as d};
